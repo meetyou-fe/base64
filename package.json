@@ -1,15 +1,22 @@
 {
   "name": "base64",
   "version": "1.0.0",
+  "main": "./index.js",
   "description": "base64 lib",
-  "main": "index.js",
   "scripts": {
     "test": "mocha index.spec.js"
   },
-  "author": "",
+  "author": "inickel",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meiyou-fe/base64.git"
+  },
+  "bugs": {  
+    "url": "https://github.com/meiyou-fe/base64/issues"
   }
 }
