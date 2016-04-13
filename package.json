@@ -1,5 +1,5 @@
 {
-  "name": "base64",
+  "name": "meiyou-base64",
   "version": "1.0.0",
   "main": "./index.js",
   "description": "base64 lib",
